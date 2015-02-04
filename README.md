@@ -7,7 +7,7 @@ Preparations
 
 Demo Format for the specified CSV
 ---------------------------------
-You may refer to [this google spreadsheet(read only)](https://docs.google.com/spreadsheets/d/15A_ngw_SnUZNNOq9WV20N8LfNxFCOT8KNURxxMJLNsI/edit?usp=sharing) for the format.
+You may refer to [this google spreadsheet(read only)](http://goo.gl/eTHzn6) for the format.
 This format is convenient for input multiple price for different groups and set formaula.
 
 Usage

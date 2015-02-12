@@ -1,7 +1,7 @@
 This is A Parser for converting a CSV in specified format to magento compatible product CSV.
 
 ##Preparations
-1. Assuem your product is already exist in Magento
+1. Assume your product is already exist in Magento
 2. A CSV with multiple price input in specified format
 
 ##Demo Format for the specified CSV

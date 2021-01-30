@@ -1,3 +1,5 @@
+# For this is for Magento V1.x and it is untouched for years. So archive it.
+
 This is A Parser for converting a CSV in specified format to magento compatible product CSV.
 
 ##Preparations
